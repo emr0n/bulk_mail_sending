@@ -1,0 +1,4 @@
+Full name,mail_adress@mail.com
+Ful name2,mail_adress2@mail.com
+Full name3,mail_adress3@mail.com
+Example name,example_mail@example.com
